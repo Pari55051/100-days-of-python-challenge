@@ -96,3 +96,4 @@
 - [ ] "Python Program to Count the Number of Occurrence of a Character in String"
 - [ ] "Python Program to Remove Duplicate Element From a List"
 - [ ] "Python Program to Convert Bytes to a String"
+- [ ] "Python Program to Print 1 \ 01 \ 101 \ ... "
